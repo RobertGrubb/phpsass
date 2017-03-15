@@ -1,5 +1,5 @@
 {
-    "name": "richthegeek/phpsass",
+    "name": "RobertGrubb/phpsass",
     "description": "PHPSass is a PHP compiler for SASS, a popular CSS pre-processor language.",
     "license": "BSD-2-Clause",
     "homepage": "http://phpsass.com",
@@ -23,6 +23,10 @@
         {
             "name": "Sam Richard",
             "homepage": "https://github.com/snugug"
+        },
+        {
+            "name": "Robert Grubb",
+            "homepage": "https://github.com/RobertGrubb"
         }
     ],
     "autoload": {

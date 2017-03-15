@@ -1,7 +1,7 @@
-#PHPSass [![build status](https://travis-ci.org/richthegeek/phpsass.png)](https://travis-ci.org/richthegeek/phpsass)
+#PHPSass [![build status](https://travis-ci.org/RobertGrubb/phpsass.png)](https://travis-ci.org/richthegeek/phpsass)
 
-#IMPORTANT NOTICE
-I'm not involved with PHP development anymore, and just don't have the time to do much more than approve pull requests for this project. I'm happy to stick around as a hands-off dictator, but if there are others who wish to take over maintainership then please get in touch ([my username]@gmail.com).
+#Fork Info
+In this fork, I have fixed the inifinite loop for PHP 7.
 
 ## About
 This is fork of PHamlP primarily for inclusiong as a Drupal pre-processor.
@@ -14,4 +14,3 @@ the name has been changed to reflect this.
 Origin: <http://code.google.com/p/phamlp/>
 
 License: <http://www.opensource.org/licenses/bsd-license.php>
-
